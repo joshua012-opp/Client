@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 import EmblaCarousel from '../../components/EmblaCarousel'
 
 function Home() {

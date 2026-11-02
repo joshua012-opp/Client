@@ -25,6 +25,7 @@ function App() {
 
 
         <Route path="/Fetch" element={<Fetch />} />
+        <Route path="/EmblaCarousel" element={<EmblaCarousel/>}/>
 
       </Routes>
     </BrowserRouter>
